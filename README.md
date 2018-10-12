@@ -1,2 +1,2 @@
 # candy.js
-Javascript library for animating web app menus
+Javascript library for eye candy web app menus
